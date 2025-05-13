@@ -71,12 +71,12 @@ while True:
             print(
                 "You did it in", minuty, "minutes", sekundy, "seconds\n"
                 "That's not bad!"
-                )
+            )
         else:
             print(
                 "You did it in", round(cas), "seconds\n"
                 "That's amazing!"
-                )
+            )
         break
     else:
         print( ">>>", volba_hrace)
